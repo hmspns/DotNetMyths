@@ -1,6 +1,6 @@
 ﻿using System.Runtime.InteropServices;
 
-namespace DotNetMyths.Console;
+namespace DotNetMyths.Common;
 
 [StructLayout(LayoutKind.Explicit)]
 public struct StructWithOverlapping

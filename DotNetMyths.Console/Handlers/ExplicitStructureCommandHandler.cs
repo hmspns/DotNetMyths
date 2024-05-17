@@ -1,6 +1,7 @@
 ﻿using System.CommandLine.Invocation;
+using DotNetMyths.Common;
 
-namespace DotNetMyths.Console.Examples;
+namespace DotNetMyths.Console.Handlers;
 
 public sealed class ExplicitStructureCommandHandler : ICommandHandler
 {
